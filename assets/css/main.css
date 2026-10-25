@@ -162,7 +162,8 @@ a:hover { color: var(--accent-dark); text-decoration: underline; }
 
 /* ---------- CCF badges ---------- */
 
-.ccf {
+.ccf,
+.award {
   display: inline-block;
   font-size: 0.72em;
   font-weight: 600;
@@ -178,6 +179,7 @@ a:hover { color: var(--accent-dark); text-decoration: underline; }
 .ccf-a { color: #b3130f; background: #fbe9e7; }
 .ccf-b { color: #1668dc; background: #e8f1fd; }
 .ccf-c { color: #55606d; background: #edf0f3; }
+.award { color: #9a6b00; background: #fdf3d7; }
 
 /* ---------- Footer ---------- */
 
