@@ -160,6 +160,25 @@ a:hover { color: var(--accent-dark); text-decoration: underline; }
 
 .pub__links { margin: 0.15rem 0 0; font-size: 0.9rem; }
 
+/* ---------- CCF badges ---------- */
+
+.ccf {
+  display: inline-block;
+  font-size: 0.72em;
+  font-weight: 600;
+  line-height: 1;
+  padding: 0.22em 0.55em;
+  margin-right: 0.2em;
+  border-radius: 999px;
+  vertical-align: 0.18em;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+
+.ccf-a { color: #b3130f; background: #fbe9e7; }
+.ccf-b { color: #1668dc; background: #e8f1fd; }
+.ccf-c { color: #55606d; background: #edf0f3; }
+
 /* ---------- Footer ---------- */
 
 .page__footer {
