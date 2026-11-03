@@ -158,8 +158,6 @@ a:hover { color: var(--accent-dark); text-decoration: underline; }
 
 .pub__authors { margin: 0.1rem 0; }
 
-.pub__links { margin: 0.15rem 0 0; font-size: 0.9rem; }
-
 /* ---------- CCF badges ---------- */
 
 .ccf,
